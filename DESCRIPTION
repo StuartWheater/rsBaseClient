@@ -1,0 +1,13 @@
+Package: rsBaseClient
+Title: ReportSHIELD Client Functions
+Version: 1.0.0
+Author: DataSHIELD Developers <datashield@newcastle.ac.uk>
+Maintainer: DataSHIELD Developers <datashield@newcastle.ac.uk>
+Description: ReportSHIELD client functions for the client side.
+License: GPL-3
+Depends: R (>= 3.5.0)
+Imports:
+    opal,
+    dsBaseClient
+RoxygenNote: 6.1.1
+Encoding: UTF-8
